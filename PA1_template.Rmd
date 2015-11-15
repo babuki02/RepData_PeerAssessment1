@@ -18,7 +18,7 @@
 
       <meta content="@github" name="twitter:site"><meta content="summary" name="twitter:card"><meta content="sefakilic/coursera-repdata" name="twitter:title"><meta content="coursera-repdata - Peer Assessment 1 for Reproducible Research" name="twitter:description"><meta content="https://avatars1.githubusercontent.com/u/1227083?v=3&amp;s=400" name="twitter:image:src">
       <meta content="GitHub" property="og:site_name"><meta content="object" property="og:type"><meta content="https://avatars1.githubusercontent.com/u/1227083?v=3&amp;s=400" property="og:image"><meta content="sefakilic/coursera-repdata" property="og:title"><meta content="https://github.com/sefakilic/coursera-repdata" property="og:url"><meta content="coursera-repdata - Peer Assessment 1 for Reproducible Research" property="og:description">
-      <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats">
+      <meta name="browser-stats-url" content="https://api.github.com/_private/browser/stats"> 
     <meta name="browser-errors-url" content="https://api.github.com/_private/browser/errors">
     <link rel="assets" href="https://assets-cdn.github.com/">
     <link rel="web-socket" href="wss://live.github.com/_sockets/MTIwMTk1Mzg6NWY5N2YyYjE0MDk2YjdhNTI4YTk4N2YzMzNhNzZhZjg6MjliM2QyNTM5NTZmNzYzMjg0MTc0YTIzYmFkYjg3NmE3ZmNhYmRkNzllYmRjZGQ4YWEzZTk4YjI2NGY4MTBmNQ==--981883fdf4f39caaef80f82e2ba535270e41ddf4">
