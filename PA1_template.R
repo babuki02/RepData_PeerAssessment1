@@ -20,7 +20,6 @@ ggplot(data=averages, aes(x=interval, y=steps)) +
     xlab("5-minute interval") +
     ylab("average number of steps taken")
 
-
 ## ------------------------------------------------------------------------
 averages[which.max(averages$steps),]
 
